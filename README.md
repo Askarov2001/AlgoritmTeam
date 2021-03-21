@@ -7,4 +7,4 @@ Members
 - Askarov Adlet
 190103325
 - Tulebergenov Ali 190103305
-- Abdrakhman Zhomart id190103289
+- Abdrakhman Zhomart 190103289
